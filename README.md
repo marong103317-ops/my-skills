@@ -7,7 +7,7 @@
 <!-- SKILLS-INDEX:START -->
 | 技能 | 说明 |
 | --- | --- |
-| （暂无技能） | 将技能文件夹放入 skills/ 后重新运行脚本 |
+| [device-hardware-info](skills/device-hardware-info) | Collect local hardware info (CPU, memory, disk, GPU, OS, battery) on macOS, Windows and Linux. Use when the user asks for 硬件信息, 设备信息, system specs, or machine specs of this device. Do not use for remote servers. |
 <!-- SKILLS-INDEX:END -->
 
 ## 如何更新目录
